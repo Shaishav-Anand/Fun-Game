@@ -1,4 +1,4 @@
-
+alert("Instructions To Play This Game is Given Down Below :");
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
